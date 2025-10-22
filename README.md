@@ -16,6 +16,8 @@ A console app that encrypts your message by taking every letter of your message 
 ### 🔐 [TrueOrFalse game](./TrueOrFalse)
 A console app game  project, using arrays and loops, it will check the user’s input and repeat the question if the input is invalid. After the quiz is complete, it will verify the user’s responses against the correct answers and present a score.
 
+### [Calculator Console App(./Calculator-ConsoleApp)
+
 ---
 
 ## 🧠 Skills Demonstrated
