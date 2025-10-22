@@ -13,10 +13,12 @@ A console app that checks the strength of a password based on length, uppercase/
 ### 🔐 [Caesar Cipher Message Encrypter](./Caesar-Cipher)
 A console app that encrypts your message by taking every letter of your message and shift it 3 places forward in the alphabet. For example, A becomes D, B becomes E, C becomes F, and “email” becomes “hpdlo”. In this case, 3 would be considered the “key” of the cipher.
 
-### 🔐 [TrueOrFalse game](./TrueOrFalse)
+###  [TrueOrFalse game](./TrueOrFalse)
 A console app game  project, using arrays and loops, it will check the user’s input and repeat the question if the input is invalid. After the quiz is complete, it will verify the user’s responses against the correct answers and present a score.
 
-### [Calculator Console App(./Calculator-ConsoleApp)
+### 🔐 [TrueOrFalse game](./Calculator-Console-App)
+
+
 
 ---
 
